@@ -1,0 +1,10 @@
+{
+  "name": "Classio",
+  "description": "智慧動態 QR Code 課堂點名、即時出缺席狀態切換、全螢幕投影模式、學生相機掃碼簽到、作業繳交統計與一鍵 Email 催繳系統。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
